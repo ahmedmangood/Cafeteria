@@ -1,0 +1,15 @@
+.colorbtn {
+  background-color: #ab7024;
+  padding: 10px 20px;
+  border-radius: 6px;
+  color: white;
+  border: 1px solid white;
+}
+
+.checktext {
+  color: #ab7024;
+}
+
+.container_check_order {
+  width: 90% !important;
+}
